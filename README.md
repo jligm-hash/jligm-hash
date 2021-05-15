@@ -3,7 +3,7 @@
 “We choose to go to the moon in this decade and do the other things. Not because they are easy, but because they are hard.” ― John F. Kennedy
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/File:John_F._Kennedy_speaks_at_Rice_University.jpg">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/John_F._Kennedy_speaks_at_Rice_University.jpg" alt="John F. Kennedy" width="50" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/John_F._Kennedy_speaks_at_Rice_University.jpg" alt="John F. Kennedy" width="200" >
    </a>
 </p>
 
