@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/File:John_F._Kennedy_speaks_at_Rice_University.jpg">
-  <img src="https://en.wikipedia.org/wiki/File:John_F._Kennedy_speaks_at_Rice_University.jpg" alt="Animation for MuSS" width="400" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/John_F._Kennedy_speaks_at_Rice_University.jpg" alt="John F. Kennedy" width="400" >
    </a>
 </p>
 
