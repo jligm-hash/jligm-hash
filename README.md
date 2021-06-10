@@ -19,6 +19,8 @@ Here are some ideas to get you started with my home page:
 - 💬 Topics: evolution, simulation, ODE, ...
 - 📫 How to reach me: GitHub
 
+**Today git push, tomorrow git pull!**
+
 <!-- 
 because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
