@@ -18,6 +18,7 @@ Here are some ideas to get you started with my home page:
 - 😄 Interests: CompBio, SysBio, SynBio, ML & DL, knowledge discovery & data mining
 - 💬 Topics: evolution, simulation, ODE, ...
 - 📫 How to reach me: GitHub
+- 🍎 My GitHub Page: ]Click here](https://jligm-hash.github.io/)
 
 **Today git push, tomorrow git pull!**
 
