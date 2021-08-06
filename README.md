@@ -20,7 +20,9 @@ Here are some ideas to get you started with my home page:
 - 📫 How to reach me: GitHub
 - 🍎 My GitHub Page: [Click here](https://jligm-hash.github.io/)
 
-**Today git push, tomorrow git pull!**
+
+
+<p style="text-align: center;">**Today git push, tomorrow git pull!**</p>
 
 <!-- 
 because its `README.md` (this file) appears on your GitHub profile.
