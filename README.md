@@ -33,6 +33,8 @@ because its `README.md` (this file) appears on your GitHub profile.
 - 
 - -->
 
+<center>![jligm-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jligm-hash&show_icons=true&theme=tokyonight)
+</center>
 ![jligm-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jligm-hash&show_icons=true&theme=tokyonight)
 
 ## Language in this GitHub
