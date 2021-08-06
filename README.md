@@ -28,13 +28,14 @@ because its `README.md` (this file) appears on your GitHub profile.
 - 
 - -->
 
+**Today git push, tomorrow git pull!**
+
 ![jligm-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jligm-hash&show_icons=true&theme=tokyonight)
 
-<!-- **Today git push, tomorrow git pull!** -->
-<h1 align="center"> Today git push, tomorrow git pull! </h1>
 
 
 ## Language in this GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jligm-hash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h1 align="center"> Today git push, tomorrow git pull! </h1>
 
