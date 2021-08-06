@@ -22,7 +22,8 @@ Here are some ideas to get you started with my home page:
 
 
 
-<p style="text-align: center;">**Today git push, tomorrow git pull!**</p>
+<!-- **Today git push, tomorrow git pull!** -->
+<h1 align="center"> Today git push, tomorrow git pull! </h1>
 
 <!-- 
 because its `README.md` (this file) appears on your GitHub profile.
