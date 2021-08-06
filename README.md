@@ -20,11 +20,6 @@ Here are some ideas to get you started with my home page:
 - 📫 How to reach me: GitHub
 - 🍎 My GitHub Page: [Click here](https://jligm-hash.github.io/)
 
-
-
-<!-- **Today git push, tomorrow git pull!** -->
-<h1 align="center"> Today git push, tomorrow git pull! </h1>
-
 <!-- 
 because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
@@ -33,10 +28,11 @@ because its `README.md` (this file) appears on your GitHub profile.
 - 
 - -->
 
-<center>![jligm-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jligm-hash&show_icons=true&theme=tokyonight)
-</center>
-
 ![jligm-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jligm-hash&show_icons=true&theme=tokyonight)
+
+<!-- **Today git push, tomorrow git pull!** -->
+<h1 align="center"> Today git push, tomorrow git pull! </h1>
+
 
 ## Language in this GitHub
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jligm-hash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
