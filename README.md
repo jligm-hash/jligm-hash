@@ -15,7 +15,7 @@ Here are some ideas to get you started with my home page:
 
 - 🔭 I’m currently working on exploring the secrets of nature
 - 🌱 I’m currently learning computational theory and methods
-- 👯 I'm one of the GitHub members in [@WangLab](https://github.com/WangLab).
+- 👯 I'm one of the GitHub members in [@WangLab_HKUST](https://github.com/WangLab).
 - 😄 Interests: CompBio, SysBio, SynBio, ML & DL, knowledge discovery & data mining
 - 💬 Topics: evolution, simulation, ODE, ...
 - 📫 How to reach me: GitHub
