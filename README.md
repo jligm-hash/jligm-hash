@@ -8,6 +8,7 @@
    </a>
 </p>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jligm.visitor-badge)
 
 **jligm-hash/jligm-hash** is a ✨ _special_ ✨ repository for you to know more about me
 
