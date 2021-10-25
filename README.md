@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jligm.visitor-badge)
+
 # Hello world 👋👋👋
 
 ***“We choose to go to the Moon. We choose to go to the Moon... We choose to go to the moon in this decade and do the other things. Not because they are easy, but because they are hard.”*** ― *John F. Kennedy*
@@ -7,8 +9,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/John_F._Kennedy_speaks_at_Rice_University.jpg" alt="John F. Kennedy" width="200" >
    </a>
 </p>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jligm.visitor-badge)
 
 **jligm-hash/jligm-hash** is a ✨ _special_ ✨ repository for you to know more about me
 
