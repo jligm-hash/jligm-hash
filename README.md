@@ -1,13 +1,8 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jligm.visitor-badge)
 
-<style>
- 
-myimg {
- -webkit-filter: invert(1);
- filter: invert(1);
- }
-
-</style>
+.blue-filter {
+    filter: invert(1);
+}
 
 
 # Hello world 👋👋👋
@@ -52,4 +47,4 @@ because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- ![github-contribution](./src/github-user-contribution220128.svg) -->
 
-<myimg src="./src/github-user-contribution220128.svg">
+<img src="./src/github-user-contribution220128.svg" alt='fig' class="blue-filter">
