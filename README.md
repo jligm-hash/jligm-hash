@@ -1,9 +1,5 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jligm.visitor-badge)
 
-.blue-filter {
-    filter: invert(1);
-}
-
 
 # Hello world 👋👋👋
 
@@ -45,6 +41,5 @@ because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center"> Today git push, tomorrow git pull! </h1>
 
-<!-- ![github-contribution](./src/github-user-contribution220128.svg) -->
+![github-contribution](./src/github-user-contribution220128.svg)
 
-<img src="./src/github-user-contribution220128.svg" alt='fig' class="blue-filter">
