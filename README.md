@@ -41,5 +41,9 @@ because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center"> Today git push, tomorrow git pull! </h1>
 
-![github-contribution](./src/github-user-contribution220128.svg)
+<!-- ![github-contribution](./src/github-user-contribution220128.svg) -->
+
+<div align="center">
+  <img align="center" alt="./src/github-user-contribution220128.svg" src="https://raw.githubusercontent.com/jligm-hash/jligm-hash/output/github-user-contribution.svg" />
+</div>
 
