@@ -22,11 +22,11 @@ Here are some ideas to get you started with my home page:
 - 📫 How to reach me: GitHub
 - 🍎 My GitHub Page: [Click here](https://jligm-hash.github.io/)
 
-<!-- 
+<!--
 because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
-- 
+-
 - -->
 
 **Today git push, tomorrow git pull!**
@@ -40,3 +40,4 @@ because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center"> Today git push, tomorrow git pull! </h1>
 
+![github-contribution](./src/github-user-contribution220128.svg)
