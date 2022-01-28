@@ -51,4 +51,4 @@ because its `README.md` (this file) appears on your GitHub profile.
 
 <!-- ![github-contribution](./src/github-user-contribution220128.svg) -->
 
-<img class="myimg" src="./src/github-user-contribution220128.svg" alt="John F. Kennedy" width="200" >
+<myimg src="./src/github-user-contribution220128.svg">
