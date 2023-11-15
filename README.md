@@ -3,12 +3,12 @@
 
 ![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fjligm-hash&labelColor=%23dce775&countColor=%2337d67a&style=flat)
 
-
+<!-- 
 [![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fjligm-hash&labelColor=%23dce775&countColor=%2337d67a&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjligm-hash)
 
 <p align="center">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjligm-hash"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fjligm-hash&labelColor=%23dce775&countColor=%2337d67a&style=flat" /></a>
-</p>
+</p> -->
 
 # Hello world 👋👋👋
 
