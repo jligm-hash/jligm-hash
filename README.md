@@ -26,9 +26,9 @@ Here are some ideas to get you started with my home page:
 
 - 🔭 I’m currently working on exploring the secrets of nature
 - 🌱 I’m currently learning computational theory and methods
-- 👯 I'm one of active learners and contributors in Github.
+- 👯 I'm one of active learners and contributors in Github
 - 😄 Interests: CompBio, SysBio, SynBio, ML & DL, knowledge discovery & data mining
-- 💬 Topics: evolution, simulation, ODE, ...
+- 💬 Topics: evolution, simulation, ODE, graph & network ...
 - 📫 How to reach me: GitHub
 - 🍎 My GitHub Page: [Click here](https://jligm-hash.github.io/)
 
