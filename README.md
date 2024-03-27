@@ -12,7 +12,12 @@
 
 # Hello world 👋👋👋
 
-***“We choose to go to the Moon. We choose to go to the Moon... We choose to go to the moon in this decade and do the other things. Not because they are easy, but because they are hard.”*** ― *John F. Kennedy*
+<!-- ***“We choose to go to the Moon. We choose to go to the Moon... We choose to go to the moon in this decade and do the other things. Not because they are easy, but because they are hard.”*** ― *John F. Kennedy* -->
+
+<p align="center">
+<strong><em>“We choose to go to the Moon. We choose to go to the Moon... We choose to go to the moon in this decade and do the other things. Not because they are easy, but because they are hard.”</em></strong> ― <em>John F. Kennedy</em>
+</p>
+
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/File:John_F._Kennedy_speaks_at_Rice_University.jpg">
@@ -36,8 +41,23 @@
   <a href="https://en.wikipedia.org/wiki/File:Pythagoras_in_Thomas_Stanley_History_of_Philosophy.jpg">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Pythagoras_in_Thomas_Stanley_History_of_Philosophy.jpg" alt="Pythagoras" width="200" >
    </a>
+</p>
 
 
+
+---
+
+<!-- But in my opinion, all things in nature occur mathematically. -->
+
+<p align="center">
+<strong><em>“All things in nature occur mathematically.”</em></strong> ― <em>René Descartes</em>
+</p>
+
+<p align="center">
+  <a href="https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg" alt="René Descartes" width="200" >
+   </a>
+</p>
 
 ---
 
