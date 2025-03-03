@@ -61,6 +61,20 @@
 
 ---
 
+<!-- But in my opinion, all things could be vectors. -->
+
+<p align="center">
+<strong><em>“Everything is a vector; every dynamic unfolds as a vector field.”</em></strong> ― <em>KA HOU LI</em>
+</p>
+
+<p align="center">
+  
+  <img src="src/khL.png" alt="KA HOU LI" width="300" >
+
+</p>
+
+---
+
 **jligm-hash/jligm-hash** is a ✨ _special_ ✨ repository for you to know more about me
 
 Here are some ideas to get you started with my home page:
