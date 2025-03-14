@@ -79,13 +79,13 @@
 
 
 <p align="center">
-<strong><em>“Every entity manifests as an omnipresent tensor in the tensor field.”</em></strong>
+<strong><em>“Every entity manifests as an omnipresent tensor in the tensor field.”</em></strong> ― <em>???</em>
 </p>
 
 <p align="center">
   
   <a href="https://upload.wikimedia.org/wikipedia/commons/7/72/Tensor_field.png">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Tensor_field.png" alt="Tensor field" width="600" >
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Tensor_field.png" alt="Tensor field" width="800" >
    </a>
 
 
