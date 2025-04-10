@@ -59,6 +59,19 @@
    </a>
 </p>
 
+
+---
+
+<p align="center">
+<strong><em>“Give me a place to stand, and a lever long enough, and I will move the world.”</em></strong> ― <em>Archimedes</em>
+</p>
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Archimedes#/media/File:Domenico-Fetti_Archimedes_1620.jpg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Domenico-Fetti_Archimedes_1620.jpg" alt="Archimedes" width="200" >
+   </a>
+</p>
+
 ---
 
 <!-- But in my opinion, all things could be vectors. -->
