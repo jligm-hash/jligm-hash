@@ -27,6 +27,22 @@
 
 
 
+
+---
+
+<p align="center">
+<strong><em>“My dear, here we must run as fast as we can, just to stay in place. And if you wish to go anywhere you must run twice as fast as that.”</em></strong> ― <em>Lewis Carroll</em>
+</p>
+
+
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Lewis_Carroll#/media/File:LewisCarrollSelfPhoto.jpg">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/LewisCarrollSelfPhoto.jpg" alt="Pythagoras" width="200" >
+   </a>
+</p>
+
+
+
 ---
 
 <!-- ***“All things are number.”*** ― *Pythagoras*  -->
