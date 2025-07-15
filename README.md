@@ -93,7 +93,7 @@
 <!-- But in my opinion, all things could be vectors. -->
 
 <p align="center">
-<strong><em>“Everything is a vector; every dynamic unfolds as a vector field.”</em></strong> ― <em>KA HOU LI</em>
+<strong><em>“Everything is a vector embedded in the space; every dynamic unfolds as a vector field.”</em></strong> ― <em>KA HOU LI</em>
 </p>
 
 <p align="center">
