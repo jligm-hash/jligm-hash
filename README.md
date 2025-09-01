@@ -131,7 +131,7 @@
 <p align="center">
   
   <a href="https://substackcdn.com/image/fetch/$s_!2bL-!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79516f9e-8a03-4e5b-9803-1a680a28a064_888x499.jpeg">
-  <img src="https://substackcdn.com/image/fetch/$s_!2bL-!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79516f9e-8a03-4e5b-9803-1a680a28a064_888x499.jpeg" alt="Tensor field" width="400" >
+  <img src="https://substackcdn.com/image/fetch/$s_!2bL-!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79516f9e-8a03-4e5b-9803-1a680a28a064_888x499.jpeg" alt="Tensor field" width="500" >
    </a>
 
 
