@@ -164,12 +164,12 @@ because its `README.md` (this file) appears on your GitHub profile.
 
 **Today git push, tomorrow git pull!**
 
-![jligm-hash's GitHub stats](https://github-readme-stats.vercel.app/api?username=jligm-hash&show_icons=true&theme=tokyonight)
+![jligm-hash's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jligm-hash&theme=tokyonight)
 
 
 
 ## Language in this GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jligm-hash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jligm-hash&theme=tokyonight)
 
 <h1 align="center"> Today git push, tomorrow git pull! </h1>
 
